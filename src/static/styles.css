@@ -9,14 +9,6 @@
     flex-direction: column;
 }
 
-.nav {
-    position: absolute;
-    top: 0;
-    border: 1px solid #d6d4d4;
-    border-radius: 30px;
-    margin-top: 15px;
-}
-
 .main-content {
     border: 1px solid #d6d4d4;
     padding: 0px 50px;
@@ -28,6 +20,14 @@
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     flex-direction: column;
+}
+
+.nav {
+    position: absolute;
+    top: 0;
+    border: 1px solid #d6d4d4;
+    border-radius: 30px;
+    margin-top: 15px;
 }
 
 .main-content p {
